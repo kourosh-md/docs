@@ -86,7 +86,7 @@ childGroups:
     octicon: 'OrganizationIcon'
     children:
     - organizations
-    - admin
+    - admin 
   - name: Community
     octicon: 'GlobeIcon'
     children:
